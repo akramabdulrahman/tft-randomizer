@@ -1,3 +1,20 @@
+
+## Tft Randomizer 
+this project is made to experiment some cool ways the randomization could be sanly managed to award good decision making for players during the rounds of the game 
+-people who study the demand relative to the probability restrained supply. should be able to guess roughly the sample quality they're gonna get with each roll at different points of the game . 
+### the algorithm i plan to make are 
+-mimic the one tft already has (depends purly on the player level and the unit cost)
+-(group theory)
+-random selection vs sampling 
+-ability to control spending on rolls (1 slot for 1 gold) -> the more gold u spend the higher quality the roll will be 
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

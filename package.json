@@ -1,7 +1,11 @@
 {
-  "name": "tft",
-  "version": "0.1.0",
-  "private": true,
+   "name": "tft-rollete",
+  "version": "0.0.1",
+  "description": "several implementations for tft rolling randomization and how it would be more effecient while maintaining the sanity of decision making . ",
+  "main": "index.js",
+  "author": "akramabdulrahman",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
